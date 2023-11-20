@@ -26,7 +26,6 @@ DEPT : AIML
 ```
 ## MAP.HTML :
 ```
-map.html:
 <!DOCTYPE html>
 <html>
     <head>
@@ -44,8 +43,10 @@ map.html:
         </map>
     </body>
     </html>
-    ```
-## RANGANATHA SWAMY TEMPLE.HTML :
+
+```
+## RANGANATHASWAMY TEMPLE.HTML :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -63,7 +64,9 @@ map.html:
 
 </html>
 ```
+
 ## MGB.HTML :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -85,6 +88,7 @@ map.html:
 </html>
 ```
 ## NELLORE BARRAGE.HTML :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -105,6 +109,7 @@ map.html:
 </html>
 ```
 ## CHILDRENS PARK.HTML :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -122,6 +127,7 @@ map.html:
 </html>
 ```
 ## PENNA RIVER.HTML :
+
 ```
 <!DOCTYPE html>
 <html>
