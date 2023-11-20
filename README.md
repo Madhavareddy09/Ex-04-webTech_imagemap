@@ -145,6 +145,7 @@ DEPT : AIML
 
 </html>
 ```
+
 # Output:
 ![image](https://github.com/Madhavareddy09/Ex-04-webTech_imagemap/assets/145742470/febdf239-b1fa-4352-95bb-7cf70b18c24a)
 
